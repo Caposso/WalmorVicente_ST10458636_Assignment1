@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ICE TASK1</string>
+    <string name="appHeader">Multiplication Table</string>
+    <string name="texthint">Enter the Number</string>
+    <string name="multi">Multiply!</string>
+    <string name="title_activity_multiplication_table">MultiplicationTable</string>
+
+</resources>
